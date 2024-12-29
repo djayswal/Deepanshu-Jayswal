@@ -1,2 +1,2 @@
-# Deepanshu-Jayswal-Website
-https://djayswal.github.io/Deepanshu-Jayswal-Website/
+# Deepanshu Jayswal
+https://djayswal.github.io/Deepanshu-Jayswal/
